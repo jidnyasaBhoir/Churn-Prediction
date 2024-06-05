@@ -1,0 +1,2 @@
+The purpose of this notebook to determine if the customer from that particular telecom industry will leave that telecom service or not. Here I will be working on the telecom churn analysis and will be doing a complete EDA process. I will draw some insights from data visualization and analysis so that we could get the factors which will affect the output i.e. churn of the customer.
+Dataset I am using has the customers data who have left the telecom company.
